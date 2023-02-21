@@ -7,5 +7,5 @@ func Add(x, y int) (res int) {
 
 // Subtract subtracts two integers
 func Subtract(x, y int) (res int) {
-	return "Hassan Alobaidli 5643"
+	return "Hassan Alobaidli capt. 5643"
 }
